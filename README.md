@@ -78,9 +78,8 @@ AI-based system for detecting heart disease using ECG data and machine learning 
 
 ## 📫 Connect With Me
 
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: *linkedin.com/in/your-profile*
-- 🌐 Portfolio: *Coming Soon*
+- 📧 Email: rbnarule2002@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/raj-narule-279117251
 
 ---
 
