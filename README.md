@@ -68,13 +68,6 @@ AI-based system for detecting heart disease using ECG data and machine learning 
 
 ---
 
-## 📊 GitHub Stats
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajNarule&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajNarule&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
