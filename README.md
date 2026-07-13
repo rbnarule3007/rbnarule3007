@@ -1,209 +1,167 @@
+# <div align="center">👋 Hi, I'm Raj Narule</div>
+
 <div align="center">
 
-# 👋 Hey, I'm Raj Narule
+### Associate Software Engineer • Full-Stack Java Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Associate+Software+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Building+Enterprise+Applications;Always+Learning+Something+New+🚀" />
+<p>
+Building scalable backend systems, modern web applications, and continuously learning new technologies.
+</p>
 
-### 💻 Full Stack Java Developer • Spring Boot • React • PostgreSQL
-
-<img src="https://komarev.com/ghpvc/?username=rbnarule3007&label=Profile%20Views&color=0e75b6&style=flat-square" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Narule-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-narule-279117251)
+[![Email](https://img.shields.io/badge/Email-rbnarule2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbnarule2002@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm an **Associate Software Engineer** passionate about developing reliable, scalable, and user-friendly applications.
+I'm an **Associate Software Engineer** with a passion for building reliable and scalable software.
 
-I enjoy building backend systems, designing REST APIs, creating responsive frontends, and continuously improving my software engineering skills.
+I enjoy designing backend systems, creating responsive user interfaces, developing REST APIs, and writing clean, maintainable code.
 
 - 💼 Associate Software Engineer
 - 🎓 B.Tech in Artificial Intelligence & Data Science
-- 💻 Full Stack Java Developer
-- 🌱 Currently learning System Design & Microservices
-- ⚡ Passionate about solving real-world problems through technology
+- 💻 Full-Stack Java Developer
+- 🌱 Currently learning Microservices, Docker & System Design
+- 🚀 Interested in Enterprise Software Development
+- ⚡ Always exploring better ways to build software
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,tailwind,postgres,mysql,python,git,github,maven,postman,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
+</p>
 
-</div>
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
 
-# 💼 What I Work With
+### Frontend
 
-<table>
-<tr>
-<td width="50%">
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
 
-### ⚙ Backend
+### Database
 
-- Java
-- Spring Boot
-- REST APIs
-- JWT Authentication
-- Maven
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
 
-</td>
+### Tools
 
-<td width="50%">
-
-### 🌐 Frontend
-
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🗄 Database
-
-- PostgreSQL
-- MySQL
-- MongoDB (Basics)
-
-</td>
-
-<td width="50%">
-
-### 🧰 Tools
-
-- Git & GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 💼 MicroHire
 
 A freelancer marketplace built using **Spring Boot** and **React**.
 
-**Highlights**
+### Features
 
-- Secure JWT Authentication
+- JWT Authentication
 - REST APIs
 - Real-time Notifications
-- Role-Based Access
+- Role-based Access
 - Admin Dashboard
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `React` • `MySQL`
 
 ---
 
 ## ❤️ Heart Disease Prediction System
 
-Machine Learning project for predicting heart disease using ECG image analysis.
+Machine Learning project for predicting heart disease using ECG image processing.
 
-**Technologies**
+### Features
 
-Python • Machine Learning • Image Processing
+- ECG Image Classification
+- Data Preprocessing
+- Model Evaluation
+- Disease Prediction
+
+**Tech Stack**
+
+`Python` • `Machine Learning` • `OpenCV`
 
 ---
 
 ## 🏥 Enterprise Healthcare Applications
 
-Currently contributing to enterprise healthcare software focused on scalable backend systems, workflow automation, and modern web technologies.
+Currently contributing to enterprise healthcare software by developing backend services, APIs, database modules, and frontend features.
 
 ---
 
 # 🌱 Currently Learning
 
-- 🏗 System Design
-- ☁ Cloud Concepts
-- 🔐 Spring Security
-- 🐳 Docker
-- ⚙ Microservices
-- 🚀 Software Architecture
+- System Design
+- Spring Security
+- Docker
+- Microservices
+- Software Architecture
 
 ---
 
 # 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📊 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=github-dark"/>
 
-</div>
-
----
-
-# 🎯 Current Goals
-
-✨ Improve Backend Development Skills
-
-✨ Build Scalable Enterprise Applications
-
-✨ Learn Software Architecture
-
-✨ Explore AI Integration in Modern Applications
-
-✨ Contribute More to GitHub
+</p>
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
-<div align="center">
-
-<a href="mailto:rbnarule2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raj-narule-279117251">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+- 📧 **Email:** **rbnarule2002@gmail.com**
+- 💼 **LinkedIn:** **https://www.linkedin.com/in/raj-narule-279117251**
 
 ---
 
 <div align="center">
 
-## 💙 Thanks for visiting!
+### 💡 Favourite Quote
 
-*"The best way to learn software engineering is by building software."*
+> *"Great software is built one thoughtful commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer"/>
+⭐ Thanks for visiting my profile!
 
 </div>
