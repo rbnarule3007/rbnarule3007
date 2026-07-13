@@ -1,244 +1,150 @@
 <div align="center">
 
-# 👋 Hi, I'm Raj Narule
+# Hi 👋 I'm Raj Narule
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Data+Science+Graduate;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer;Full-Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+%F0%9F%9A%80" />
 
-### 💻 Associate Software Engineer | Full-Stack Java Developer | AI & Data Science Graduate
+### Building reliable software with clean code and practical solutions.
 
-<img src="https://komarev.com/ghpvc/?username=rbnarule3007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+<a href="mailto:rbnarule2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raj-narule-279117251">
+<img src="https://img.shields.io/badge/LinkedIn-Raj%20Narule-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💼 **Associate Software Engineer**
+```java
+class RajNarule {
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**
+    String role = "Associate Software Engineer";
 
-💻 Passionate about **Enterprise Software Development**, **Backend Engineering**, and **Modern Web Applications**
+    String[] interests = {
+        "Backend Development",
+        "Enterprise Applications",
+        "Full Stack Development",
+        "Problem Solving"
+    };
 
-🌱 Currently working on enterprise healthcare software using **Spring Boot**, **React**, and **PostgreSQL**
+    String[] workingWith = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "PostgreSQL",
+        "MySQL"
+    };
 
-⚡ I enjoy building scalable applications, solving real-world problems, and continuously learning new technologies.
+    String currentFocus =
+        "Building scalable enterprise software and continuously improving my development skills.";
+}
+```
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-</p>
-
----
-
-# 💼 Current Focus
-
-✔ Enterprise Application Development
-
-✔ REST API Development
-
-✔ Spring Boot Backend
-
-✔ React Frontend
-
-✔ PostgreSQL Database
-
-✔ JWT Authentication
-
-✔ AI Integration
-
-✔ Clean Architecture
-
-✔ System Design
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 ClinicalPro / VigiX360
-
-Enterprise Healthcare & Clinical Trial Management Platform
-
-**Tech Stack**
-
-- Java
-- Spring Boot
-- React
-- PostgreSQL
-- AI Integration
-
-**Features**
-
-- Clinical Workflow Management
-- Document Management
-- User & Role Management
-- AI Assisted Features
-- Enterprise Architecture
-
----
-
-## 💼 MicroHire
-
-Freelancer Marketplace Platform
-
-**Tech Stack**
-
-- React
-- Spring Boot
-- MySQL
-- JWT
-- WebSocket
-
-**Features**
-
-- Secure Authentication
-- Real-time Notifications
-- Admin Dashboard
-- Client & Freelancer Portal
-
----
-
-## ❤️ Heart Disease Prediction System
-
-AI-Based ECG Disease Prediction System
-
-**Tech Stack**
-
-- Python
-- Machine Learning
-- Image Processing
-- OpenCV
-
-**Features**
-
-- ECG Image Classification
-- Data Preprocessing
-- Model Training
-- Disease Prediction
-
----
-
-# 📊 GitHub Analytics
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,tailwind,postgres,mysql,git,github,maven,postman,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 What I've Worked On
 
-<p align="center">
+### 💼 Enterprise Web Applications
 
-<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rbnarule3007&theme=tokyonight&row=1&column=7"/>
-
-</p>
+- REST API development using Spring Boot
+- Authentication with JWT
+- Database-driven applications
+- Role-based access systems
+- Frontend development with React
+- API integration
+- Backend business logic
+- Responsive UI development
 
 ---
 
-# 📈 Contribution Graph
+### ❤️ Heart Disease Prediction
 
-<p align="center">
+An AI-based academic project focused on ECG image classification and disease prediction.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night"/>
+**Technologies**
 
-</p>
+`Python` • `Machine Learning` • `Image Processing`
+
+---
+
+### 💻 MicroHire
+
+A freelancer marketplace application built using Spring Boot and React.
+
+**Highlights**
+
+- Secure Login
+- JWT Authentication
+- REST APIs
+- WebSocket Notifications
+- MySQL Database
 
 ---
 
 # 🌱 Currently Learning
 
-- Microservices
-- Docker
 - System Design
 - Spring Security
-- AI in Enterprise Applications
-- Cloud Deployment
+- Microservices
+- Docker
+- Software Architecture
 
 ---
 
-# 🎯 Career Interests
-
-- Enterprise Software
-- Healthcare Technology
-- Artificial Intelligence
-- Backend Engineering
-- Full Stack Development
-- Automation
-- Open Source
-
----
-
-# 📫 Connect With Me
+# 📊 GitHub Stats
 
 <p align="center">
 
-<a href="mailto:rbnarule2002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<a href="https://www.linkedin.com/in/raj-narule-279117251">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
-**📧 Email:** rbnarule2002@gmail.com
+---
 
-**💼 LinkedIn:**  
-https://www.linkedin.com/in/raj-narule-279117251
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+**rbnarule2002@gmail.com**
+
+💼 **LinkedIn**
+
+**linkedin.com/in/raj-narule-279117251**
 
 ---
 
 <div align="center">
 
-## 💡 Quote
-
-*"Code with purpose. Learn continuously. Build solutions that matter."*
-
-⭐ **Thanks for visiting my profile!**
+### "Keep Learning • Keep Building • Keep Improving"
 
 </div>
