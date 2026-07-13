@@ -1,119 +1,71 @@
-# <div align="center">👋 Hi, I'm Raj Narule</div>
-
 <div align="center">
+
+# 👋 Hi, I'm Raj Narule
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React;Always+Learning+New+Things"/>
 
 ### Associate Software Engineer • Full-Stack Java Developer
 
-<p>
-Building scalable backend systems, modern web applications, and continuously learning new technologies.
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Narule-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-narule-279117251)
-[![Email](https://img.shields.io/badge/Email-rbnarule2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbnarule2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Narule-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raj-narule-279117251)
+[![Gmail](https://img.shields.io/badge/Gmail-rbnarule2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbnarule2002@gmail.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm an **Associate Software Engineer** with a passion for building reliable and scalable software.
-
-I enjoy designing backend systems, creating responsive user interfaces, developing REST APIs, and writing clean, maintainable code.
+I'm **Raj Narule**, an Associate Software Engineer passionate about building clean, scalable web applications and enterprise software.
 
 - 💼 Associate Software Engineer
-- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🎓 B.Tech – Artificial Intelligence & Data Science
 - 💻 Full-Stack Java Developer
-- 🌱 Currently learning Microservices, Docker & System Design
-- 🚀 Interested in Enterprise Software Development
-- ⚡ Always exploring better ways to build software
+- 🌱 Learning System Design, Docker & Microservices
+- 🚀 Interested in Backend Engineering & Enterprise Applications
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,tailwind,postgres,mysql,python,git,github,maven,postman,vscode"/>
 </p>
 
 ---
 
-# 🚀 Projects
+# 💼 Experience
+
+### Enterprise Software Development
+
+- REST API Development
+- Backend Services
+- Authentication & Authorization
+- Database Design
+- Responsive Frontend Development
+- API Integration
+
+---
+
+# 🚀 Featured Projects
 
 ## 💼 MicroHire
 
-A freelancer marketplace built using **Spring Boot** and **React**.
-
-### Features
+Freelancer Marketplace
 
 - JWT Authentication
 - REST APIs
 - Real-time Notifications
-- Role-based Access
-- Admin Dashboard
-
-**Tech Stack**
-
-`Java` • `Spring Boot` • `React` • `MySQL`
+- React + Spring Boot
 
 ---
 
-## ❤️ Heart Disease Prediction System
+## ❤️ Heart Disease Prediction
 
-Machine Learning project for predicting heart disease using ECG image processing.
+Machine Learning based ECG prediction system.
 
-### Features
-
-- ECG Image Classification
-- Data Preprocessing
-- Model Evaluation
-- Disease Prediction
-
-**Tech Stack**
-
-`Python` • `Machine Learning` • `OpenCV`
-
----
-
-## 🏥 Enterprise Healthcare Applications
-
-Currently contributing to enterprise healthcare software by developing backend services, APIs, database modules, and frontend features.
-
----
-
-# 🌱 Currently Learning
-
-- System Design
-- Spring Security
-- Docker
-- Microservices
-- Software Architecture
+- Python
+- Image Processing
+- Machine Learning
 
 ---
 
@@ -121,9 +73,9 @@ Currently contributing to enterprise healthcare software by developing backend s
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,36 +84,32 @@ Currently contributing to enterprise healthcare software by developing backend s
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=github-dark&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=github-dark"/>
-
-</p>
+- System Design
+- Docker
+- Spring Security
+- Microservices
+- Software Architecture
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
-- 📧 **Email:** **rbnarule2002@gmail.com**
-- 💼 **LinkedIn:** **https://www.linkedin.com/in/raj-narule-279117251**
+- 📧 **rbnarule2002@gmail.com**
+- 💼 **https://www.linkedin.com/in/raj-narule-279117251**
 
 ---
 
 <div align="center">
 
-### 💡 Favourite Quote
+### ⭐ Thanks for visiting my profile!
 
-> *"Great software is built one thoughtful commit at a time."*
-
-⭐ Thanks for visiting my profile!
+*"Code. Learn. Build. Repeat."*
 
 </div>
