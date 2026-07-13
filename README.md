@@ -1,79 +1,244 @@
+<div align="center">
+
 # 👋 Hi, I'm Raj Narule
 
-🎓 **Artificial Intelligence & Data Science Student**  
-💻 **Full-Stack Developer | AI & ML Enthusiast**  
-🚀 Passionate about building scalable web applications and intelligent systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Data+Science+Graduate;Always+Learning+New+Technologies!" />
+
+### 💻 Associate Software Engineer | Full-Stack Java Developer | AI & Data Science Graduate
+
+<img src="https://komarev.com/ghpvc/?username=rbnarule3007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I am an enthusiastic developer with strong interests in **Artificial Intelligence, Data Science, and Full-Stack Development**. I enjoy transforming ideas into real-world applications using modern technologies. My focus is on writing clean, efficient code and continuously improving my problem-solving skills through hands-on projects.
+💼 **Associate Software Engineer**
 
-I have experience developing **web applications**, **machine learning models**, and **RESTful APIs**, with an interest in automation, system design, and AI-driven solutions.
+🎓 B.Tech in **Artificial Intelligence & Data Science**
+
+💻 Passionate about **Enterprise Software Development**, **Backend Engineering**, and **Modern Web Applications**
+
+🌱 Currently working on enterprise healthcare software using **Spring Boot**, **React**, and **PostgreSQL**
+
+⚡ I enjoy building scalable applications, solving real-world problems, and continuously learning new technologies.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-### 💡 Programming Languages
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
+
+---
+
+# 💼 Current Focus
+
+✔ Enterprise Application Development
+
+✔ REST API Development
+
+✔ Spring Boot Backend
+
+✔ React Frontend
+
+✔ PostgreSQL Database
+
+✔ JWT Authentication
+
+✔ AI Integration
+
+✔ Clean Architecture
+
+✔ System Design
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 ClinicalPro / VigiX360
+
+Enterprise Healthcare & Clinical Trial Management Platform
+
+**Tech Stack**
+
 - Java
-- Python
-- JavaScript
-- SQL
-
-### 🌐 Web Development
-- React.js
-- HTML5, CSS3
-- Tailwind CSS
 - Spring Boot
-- REST APIs
+- React
+- PostgreSQL
+- AI Integration
 
-### 🤖 AI / Data Science
-- Machine Learning
-- Deep Learning (Basics)
-- Data Analysis
-- Model Training & Evaluation
-- ECG & Image-based Prediction Systems
+**Features**
 
-### 🗄️ Databases
+- Clinical Workflow Management
+- Document Management
+- User & Role Management
+- AI Assisted Features
+- Enterprise Architecture
+
+---
+
+## 💼 MicroHire
+
+Freelancer Marketplace Platform
+
+**Tech Stack**
+
+- React
+- Spring Boot
 - MySQL
-- MongoDB (Basic)
-
-### 🔐 Tools & Technologies
-- Git & GitHub
-- JWT Authentication
+- JWT
 - WebSocket
-- Maven
-- Postman
+
+**Features**
+
+- Secure Authentication
+- Real-time Notifications
+- Admin Dashboard
+- Client & Freelancer Portal
 
 ---
 
-## 🚀 Featured Projects
+## ❤️ Heart Disease Prediction System
 
-### 🔹 MicroHire – Freelancer Platform
-A web-based platform connecting clients and freelancers for micro-projects.  
-**Tech Stack:** React.js, Spring Boot, MySQL, JWT, WebSocket  
-**Features:** Direct project acceptance, real-time notifications, role-based access, admin dashboard.
+AI-Based ECG Disease Prediction System
 
-### 🔹 Heart Disease Prediction System
-AI-based system for detecting heart disease using ECG data and machine learning models.  
-**Tech Stack:** Python, ML Algorithms, Data Preprocessing  
-**Focus:** Early diagnosis and healthcare accessibility.
+**Tech Stack**
 
-### 🔹 Automation & Backend Projects
-- Secure authentication systems using JWT  
-- RESTful APIs with Spring Boot  
-- Database-driven applications
+- Python
+- Machine Learning
+- Image Processing
+- OpenCV
 
----
+**Features**
 
-
-## 📫 Connect With Me
-
-- 📧 Email: rbnarule2002@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/raj-narule-279117251
+- ECG Image Classification
+- Data Preprocessing
+- Model Training
+- Disease Prediction
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me. I'm always open to learning, collaboration, and new opportunities!*
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rbnarule3007&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Microservices
+- Docker
+- System Design
+- Spring Security
+- AI in Enterprise Applications
+- Cloud Deployment
+
+---
+
+# 🎯 Career Interests
+
+- Enterprise Software
+- Healthcare Technology
+- Artificial Intelligence
+- Backend Engineering
+- Full Stack Development
+- Automation
+- Open Source
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rbnarule2002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raj-narule-279117251">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+**📧 Email:** rbnarule2002@gmail.com
+
+**💼 LinkedIn:**  
+https://www.linkedin.com/in/raj-narule-279117251
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+*"Code with purpose. Learn continuously. Build solutions that matter."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
