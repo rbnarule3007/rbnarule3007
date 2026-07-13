@@ -69,13 +69,13 @@ Machine Learning based ECG prediction system.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -84,9 +84,20 @@ Machine Learning based ECG prediction system.
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night"/>
+
+</p>
 ---
 
 # 🌱 Currently Learning
