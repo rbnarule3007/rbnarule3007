@@ -48,7 +48,6 @@ I am an Associate Software Engineer who thrives on architecting robust backend s
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🚀 **VigiX360** | `React` `Spring Boot` `PostgreSQL` | An enterprise-grade electronic Quality Management System (QMS) featuring a complex 14-module sequential dashboard and sidebar navigation interface. |
 | 💼 **MicroHire** | `React` `Spring Boot` `JWT` | A dynamic freelancer marketplace equipped with secure RESTful APIs, JWT authentication, and real-time notification systems. |
 | ❤️ **HeartGuard AI** | `Python` `Machine Learning` | An intelligent diagnostic tool utilizing advanced image processing and ML algorithms to predict heart disease from ECG data. |
 
