@@ -144,7 +144,7 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rbnarule3007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rbnarule3007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -154,9 +154,9 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
