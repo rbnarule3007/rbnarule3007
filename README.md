@@ -182,23 +182,20 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 ---
 
+
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
----
-
-# 📅 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=rbnarule3007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
-
-</div>
 
 ---
 
