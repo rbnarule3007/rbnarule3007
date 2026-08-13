@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Raj%20Narule&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20Java%20Developer&descAlignY=60&descAlign=50&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Raj%20Narule&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20Java%20Developer&descAlignY=60&descAlign=50&descSize=20" width="100%"/>
 
 </div>
 
@@ -17,15 +17,15 @@
 <div align="center">
 
 <a href="mailto:rbnarule2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raj-narule-279117251">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/rbnarule3007">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -38,59 +38,83 @@ I'm an **Associate Software Engineer** focused on building scalable, reliable, a
 
 My primary expertise is in **Java, Spring Boot, React, REST APIs, Microservices, SQL, and Docker**.
 
-I enjoy working on real-world applications where backend architecture, frontend experience, databases, and system design come together.
+I enjoy solving real-world problems by combining backend architecture, frontend development, databases, APIs, and modern software engineering practices.
 
-* 💻 Associate Software Engineer
-* ☕ Java & Spring Boot Developer
-* ⚛️ React & Full-Stack Development
-* 🔗 REST APIs & Microservices
-* 🗄️ MySQL & PostgreSQL
-* 🐳 Docker & Application Deployment
-* 🧠 AI & Data Science background
-* 📚 Currently improving **System Design & Software Architecture**
-* ⚡ Motto: **Code. Learn. Build. Repeat.**
+- 💻 Associate Software Engineer
+- ☕ Java & Spring Boot Developer
+- ⚛️ React & Full-Stack Development
+- 🔗 REST APIs & Microservices
+- 🗄️ MySQL & PostgreSQL
+- 🐳 Docker & Application Deployment
+- 🔐 Spring Security & JWT Authentication
+- 🧠 AI & Data Science background
+- 🏗️ Learning System Design & Distributed Systems
+- ⚡ Motto: **Code. Learn. Build. Repeat.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c" alt="Programming Languages"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Backend Technologies"/>
 </p>
 
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* REST APIs
-* JWT Authentication
-* Microservices
-* Eureka Service Discovery
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- RESTful APIs
+- JWT Authentication
+- Microservices Architecture
+- Eureka Service Discovery
+- WebSocket
+- Hibernate
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript" alt="Frontend Technologies"/>
 </p>
 
-### 🗄️ Database
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive UI Development
+
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases"/>
 </p>
 
-### ☁️ DevOps & Tools
+- MySQL
+- PostgreSQL
+- SQL
+- JPA / Hibernate
+
+### ☁️ DevOps & Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode" alt="DevOps and Tools"/>
 </p>
+
+- Git & GitHub
+- Docker
+- Maven
+- Postman
+- VS Code
+- GitHub Actions
+- API Testing
+- Application Deployment
 
 ---
 
@@ -98,7 +122,7 @@ I enjoy working on real-world applications where backend architecture, frontend 
 
 ## 💼 MicroHire
 
-**Freelancer Marketplace**
+### Freelancer Marketplace
 
 A full-stack freelancer marketplace inspired by platforms such as Fiverr.
 
@@ -106,43 +130,46 @@ A full-stack freelancer marketplace inspired by platforms such as Fiverr.
 
 `React` `Spring Boot` `JWT` `MySQL` `WebSocket`
 
-### Features
+### Key Features
 
-* 🔐 JWT Authentication
-* 👤 User & Role Management
-* 💼 Freelancer Services
-* 🔎 Service Search
-* 💬 Real-Time Notifications
-* 📡 RESTful APIs
-* 🗄️ Relational Database
-* 🔒 Secure Backend Architecture
+- 🔐 JWT Authentication
+- 👤 User & Role Management
+- 💼 Freelancer Services
+- 🔎 Service Search
+- 📡 RESTful APIs
+- 💬 Real-Time Notifications
+- 🗄️ Relational Database
+- 🔒 Secure Backend Architecture
+- ⚡ WebSocket Communication
+- 📱 Responsive Frontend
 
 ---
 
 ## ❤️ HeartGuard AI
 
-**ECG-Based Heart Disease Classification**
+### ECG-Based Heart Disease Classification
 
-An AI-based application that processes ECG images and uses machine learning techniques to classify cardiac conditions.
+An AI-based application that processes ECG images and applies machine learning techniques to classify cardiac conditions.
 
 **Tech Stack**
 
 `Python` `Machine Learning` `Image Processing` `Flask`
 
-### Features
+### Key Features
 
-* ECG Image Processing
-* Image Segmentation
-* Feature Extraction
-* Machine Learning Classification
-* Model-Based Prediction
-* Flask API Integration
+- ❤️ ECG Image Processing
+- 🖼️ Image Segmentation
+- 🔍 Feature Extraction
+- 🤖 Machine Learning Classification
+- 📊 ECG Data Analysis
+- 🧠 Model-Based Prediction
+- 🌐 Flask API Integration
 
 ---
 
----
+# 📊 GitHub Activity
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -152,7 +179,7 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -162,49 +189,11 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  >
-</picture>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night&hide_border=true&area=true&custom_title=Raj%20Narule%20-%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  >
-</picture>
+<img src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -213,66 +202,13 @@ An AI-based application that processes ECG images and uses machine learning tech
 # 🎯 Current Goals
 
 ```text
-Java                    ████████████████████  Advanced
-Spring Boot             ███████████████████░  Advanced
-React                   ████████████████░░░░  Intermediate+
-REST APIs               ███████████████████░  Advanced
-Microservices            ███████████████░░░░░  Intermediate
-SQL                     ██████████████████░░  Advanced
-Docker                  █████████████░░░░░░░  Intermediate
-System Design           ███████████░░░░░░░░░  Learning
-Cloud & DevOps           ██████████░░░░░░░░░░  Learning
-```
-
----
-
-# 📚 Currently Learning
-
-* 🏗️ System Design
-* 🔄 Advanced Microservices
-* 🐳 Docker & Containerization
-* ☁️ Cloud Deployment
-* 🔐 Advanced Spring Security
-* ⚡ Performance Optimization
-* 🧩 Distributed Systems
-* 🤖 AI-Assisted Software Development
-
----
-
-# 💡 Developer Philosophy
-
-> **"Don't just write code. Build systems that solve real problems."**
-
-I believe good software is not only about writing code.
-
-It's about:
-
-**Understanding → Designing → Building → Testing → Deploying → Improving**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in connecting with developers, engineers, and technology enthusiasts.
-
-<a href="mailto:rbnarule2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raj-narule-279117251">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects useful, consider giving them a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer"/>
-
-</div>
+Java                 ████████████████████  Advanced
+Spring Boot          ███████████████████░  Advanced
+REST APIs            ███████████████████░  Advanced
+SQL                  ██████████████████░░  Advanced
+React                ████████████████░░░░  Intermediate+
+Microservices        ███████████████░░░░░  Intermediate
+Docker               █████████████░░░░░░░  Intermediate
+System Design        ███████████░░░░░░░░░  Learning
+Cloud & DevOps       ██████████░░░░░░░░░░  Learning
+Distributed Systems  █████████░░░░░░░░░░░  Learning
