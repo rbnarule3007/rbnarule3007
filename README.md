@@ -162,11 +162,13 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 ---
 
+---
+
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
 
 </div>
 
@@ -176,13 +178,11 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night&hide_border=true&area=true&custom_title=Raj%20Narule%20-%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 </div>
 
 ---
-
-
 
 # 🐍 Contribution Snake
 
@@ -191,11 +191,15 @@ An AI-based application that processes ECG images and uses machine learning tech
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg" alt="GitHub Contribution Snake">
+
+  <img
+    src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  >
 </picture>
 
 </div>
-
 
 ---
 
