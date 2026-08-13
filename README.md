@@ -140,28 +140,6 @@ An AI-based application that processes ECG images and uses machine learning tech
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rbnarule3007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rbnarule3007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnarule3007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
 ---
 
 # 🔥 GitHub Streak
@@ -169,6 +147,35 @@ An AI-based application that processes ECG images and uses machine learning tech
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rbnarule3007&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnarule3007&theme=tokyo-night&hide_border=true&area=true&custom_title=Raj%20Narule%20-%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/rbnarule3007/rbnarule3007/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  >
+</picture>
 
 </div>
 
